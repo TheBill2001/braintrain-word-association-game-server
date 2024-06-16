@@ -1,0 +1,88 @@
+[
+    {
+        "category": [
+            "gia đình"
+        ],
+        "words": [
+            "cha mẹ",
+            "cha",
+            "ông bà",
+            "mẹ",
+            "chị gái",
+            "cha dượng",
+            "vợ",
+            "bà",
+            "người thân",
+            "bố mẹ"
+        ]
+    },
+    {
+        "category": [
+            "việc làm"
+        ],
+        "words": [
+            "lao động",
+            "khuyến khích",
+            "tuyển dụng",
+            "lợi ích",
+            "thất nghiệp",
+            "công bằng",
+            "phúc lợi",
+            "trợ cấp",
+            "nghề nghiệp",
+            "thúc đẩy"
+        ]
+    },
+    {
+        "category": [
+            "động vật",
+            "chó"
+        ],
+        "words": [
+            "thú",
+            "mèo",
+            "gấu",
+            "thỏ",
+            "gấu mèo",
+            "khỉ",
+            "hươu",
+            "săn",
+            "sói",
+            "lửng"
+        ]
+    },
+    {
+        "category": [
+            "đồ ăn"
+        ],
+        "words": [
+            "thực đơn",
+            "ăn",
+            "ăn vặt",
+            "thực khách",
+            "nhà hàng",
+            "món",
+            "bữa",
+            "ăn liền",
+            "ăn ở",
+            "nấu nướng"
+        ]
+    },
+    {
+        "category": [
+            "tính cách"
+        ],
+        "words": [
+            "ngây thơ",
+            "trầm tính",
+            "lạnh lùng",
+            "bướng bỉnh",
+            "tốt bụng",
+            "cá tính",
+            "vụng về",
+            "rụt rè",
+            "nóng nảy",
+            "hoạt bát"
+        ]
+    }
+]
