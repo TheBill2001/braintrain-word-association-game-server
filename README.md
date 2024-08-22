@@ -1,5 +1,12 @@
 # Embedding server
 
+This repo used [Git LFS](https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage) to store the embeddings model. Install Git LFS and then run the following command in the repo to pull the model binary.
+
+```
+git lfs install
+git lfs pull
+```
+
 To run the server, create a virtual environment and activate. Then install the dependencies.
 
 ```
